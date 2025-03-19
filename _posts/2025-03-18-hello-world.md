@@ -14,3 +14,4 @@ media_subpath: '/posts/20250318'
 
 soon
 
+{% assign author = site.data.authors[page.author] %}
